@@ -16,7 +16,9 @@
 
 # **Introduction**
 
-Welcome to the first individual project of Henry Labs! In this project, I developed an MLOps API using the FastAPI framework to make Steam gaming datasets available. The API includes 5 endpoints, 3 of which use machine learning to generate recommendations and perform sentiment analysis.
+Welcome to the first individual project of Henry Labs!
+
+In this project, I developed an API ohat makes Steam gaming datasets available. The API includes 5 endpoints, 3 of which use machine learning to generate recommendations and perform sentiment analysis.
 
 
 
